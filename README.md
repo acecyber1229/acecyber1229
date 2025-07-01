@@ -15,6 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Employee Data Exfiltration)](https://github.com/acecyber1229/Suspected-Data-Exfiltration)**
 
 ## 🚩 Incident Response
+- **[VM Brute Force Detection](https://github.com/acecyber1229/Brute-Force-Detection)**
 
 <hr/>
 
