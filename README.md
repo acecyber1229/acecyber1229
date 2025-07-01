@@ -14,6 +14,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Network Slowdown)](https://github.com/acecyber1229/Network-Slowdowns)**
 - **[Threat Hunting Scenario (Employee Data Exfiltration)](https://github.com/acecyber1229/Suspected-Data-Exfiltration)**
 
+## 🚩 Incident Response
+
 <hr/>
 
 ## 🤳 Connect With Me
