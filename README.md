@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/acecyber1229/">Awais C.</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm passionate about cybersecurity and enjoy diving into complex challenges through my hands-on projects. As I work on things like vulnerability management and threat detection, I find each project is a piece of a larger puzzle, helping me build a holistic overview of how different security elements connect in this constantly evolving field. Feel free to take a look at the work I've done to enhance security operations and processes!
 
 
 ## ⚠️ Vulnerability Management Projects
