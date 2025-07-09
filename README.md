@@ -1,20 +1,20 @@
-# <a href="https://www.linkedin.com/in/acecyber1229/">Awais C.</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/acecyber1229/">Awais C.</a>'s IT and Cybersecurity Project Portfolio 
 
 I'm passionate about cybersecurity and enjoy diving into complex challenges through my hands-on projects. As I work on things like vulnerability management and threat detection, I find each project is a piece of a larger puzzle, helping me build a holistic overview of how different security elements connect in this constantly evolving field. Feel free to take a look at the work I've done to enhance security operations and processes!
 
 
-## ⚠️ Vulnerability Management Projects
+## Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/acecyber1229/Vulnerability-Management)** 
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Hunting and Security Operations
+## Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/acecyber1229/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Network Slowdown)](https://github.com/acecyber1229/Network-Slowdowns)**
 - **[Threat Hunting Scenario (Employee Data Exfiltration)](https://github.com/acecyber1229/Suspected-Data-Exfiltration)**
 
-## 🚩 Incident Response
+## Incident Response
 - **[VM Brute Force Detection](https://github.com/acecyber1229/Brute-Force-Detection)**
 - **[PowerShell Suspicious Web Request](https://github.com/acecyber1229/PowerShell-Suspicious-Web-Request)**
 
